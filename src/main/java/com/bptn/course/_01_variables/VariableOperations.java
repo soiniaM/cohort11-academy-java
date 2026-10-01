@@ -1,4 +1,4 @@
-package com.bptn.course.corse_02_hello_word;
+package com.bptn.course._01_variables;
 
 public class VariableOperations {
     public static void main(String[] args){
